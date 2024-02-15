@@ -33,7 +33,7 @@ For any questions, feedback, or assistance, feel free to reach out to our suppor
 
 ## License 📝
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the no License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
